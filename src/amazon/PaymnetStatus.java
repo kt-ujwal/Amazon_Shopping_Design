@@ -1,0 +1,5 @@
+package amazon;
+
+public enum PaymnetStatus {
+    UNPAID, PENDING, COMPLETED, FILLED, DECLINED, CANCELLED, ABANDONED, SETTLING, SETTLED, REFUNDED
+}
